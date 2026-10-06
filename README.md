@@ -1,6 +1,6 @@
- Deep Learning & Its Applications Lab
+# # Deep Learning & Its Applications Lab
 
-Welcome to the *Deep Learning & Its Applications Lab* repository! This repository contains a curated collection of deep learning experiments, implementation scripts, and reference documentation completed as part of the curriculum.
+Welcome to the **Deep Learning & Its Applications Lab** repository! This repository contains a curated collection of deep learning experiments, implementation scripts, and reference documentation completed as part of the curriculum.
 
 ## 📌 Repository Overview
 - **Author:** Gauri Gulhane (Roll No: 23070521054)
